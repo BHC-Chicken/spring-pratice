@@ -13,7 +13,6 @@ public class SortService {
 
     public SortService(@Qualifier("bubbleSort") Sort<String> sort) {
         this.sort = sort;
-        System.out.println("구현: " + sort.getClass().getName());
     }
 
     public List<String> doSort(List<String> list) {
