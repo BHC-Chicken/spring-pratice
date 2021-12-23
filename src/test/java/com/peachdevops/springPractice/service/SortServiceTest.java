@@ -1,7 +1,6 @@
-package com.peachdevops.javaopp.service;
+package com.peachdevops.springPractice.service;
 
-import com.peachdevops.javaopp.logic.BubbleSort;
-import com.peachdevops.javaopp.logic.JavaSort;
+import com.peachdevops.springPractice.logic.BubbleSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

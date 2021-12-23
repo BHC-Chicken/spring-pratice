@@ -1,4 +1,4 @@
-package com.peachdevops.javaopp.logic;
+package com.peachdevops.springPractice.logic;
 
 import java.util.List;
 
